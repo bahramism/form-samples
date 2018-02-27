@@ -1,0 +1,68 @@
+body{
+	margin: 100px 400px;
+}
+fieldset{
+	font-size: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 10px;
+	font-weight: bold;
+	color: #F072A9;
+	background-color: #FFF4F4;
+	border: solid #FFD2D2 1px;
+	border-radius: 10px;
+	width: 460px;
+}
+legend{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	padding: 5px;
+	margin: 20px;
+	color: #F072A9;
+	background-color: #FFF4F4;
+	border: solid #FFD2D2 1px;
+	border-radius: 5px;
+	width: 55px;
+}
+
+input[type=text],
+input[type=email],
+input[type=tel],
+select{
+	background-color: #FFF4F4;
+	font-weight: normal;
+	font-size: 15px;
+	color: #F072A9;
+	border: solid #FFD2D2 2px;
+	border-radius: 5px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0px 50px;
+	padding: 4.5px;
+	width: 200px;
+}
+
+textarea{
+	background-color: #FFF4F4;
+	color: #F072A9;
+	border: solid #FFD2D2 3px;
+	border-radius: 5px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0px 30px;
+	width: 280px;
+	height: 85px;
+	margin-left: 95px;
+
+}
+
+input[type=submit]{
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #EB3B88;
+	color: white;
+	border: solid #EB3B88 1px;
+	border-radius: 4px;
+	width: 80px;
+	height: 30px;
+	clear: right;
+}
+.msg {
+	display: block;
+}

@@ -1,0 +1,33 @@
+form{
+	margin: 200px 430px;
+	width: 400px;
+	font-weight: bold;
+}
+input[type=text]{
+	padding: 10px 12.51px;
+}
+
+input[type=email]{
+	width: 100%;
+	padding: 10px 0px;
+}
+
+select{
+	width: 100%;
+	padding: 10px 0px;
+}
+
+textarea{
+	width: 100%;
+	padding: 10px 0px;
+}
+
+input[type=submit]{
+	padding: 10px 20px;
+	color: white;
+	background-color: #4B99AD;
+}
+
+.required{
+    color:red;
+}
